@@ -108,18 +108,17 @@ def display_car_information(make,model):
   #evenOrOdd(7)
 
 
-   age = 20
-   input =("Enter Age: ")
-  def validate_age(age):
-      age = 10
-      if(age >= 18):
-          print("age is greater than or equal to 18")
-    elif(age < 13):
-        print("age is less than 13")
+   #age = 20
+   #input =("Enter Age: ")
+  #def validate_age(age):
+    #  age = 10
+     # if(age >= 18):
+    #      print("age is greater than or equal to 18")
+    #elif(age < 13):
+    #    print("age is less than 13")
 
-    else:
-        print("age is not greater than 18 and not less than 13")
+    #else:
+    #    print("age is not greater than 18 and not less than 13")
 
-        validate_age(age) #we are passing 20
-        print("The value of age is{0} ".format(age))
-        
+    #    validate_age(age) #we are passing 20
+    #    print("The value of age is{0} ".format(age))
